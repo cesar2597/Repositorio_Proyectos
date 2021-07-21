@@ -1,4 +1,4 @@
-# WEB_Cesar
+# Repositorio_Proyectos
 
-Este es el repositorio para crear paginas web.
-En la rama master encontraran la carpeta de Desarrollo Web.
+Este es el repositorio para crear crear distintos proyectos.
+En la rama (branch) "master" se encuentra la carpeta con los proyectos existentes.
